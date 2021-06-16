@@ -10,3 +10,6 @@ The highly-anticipated sequel to the Scratch game no one knew about - Gray's Maz
 - Multiple different level enemies and gimmicks
 
 If you like games such as The World's Hardest Game, then you will feel right at home in this game!
+
+# NOTICE:
+For those of you wanting to download the source code, download the .yyz file listed in the releases. Do NOT download the "source code" zip.
